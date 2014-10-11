@@ -7,21 +7,20 @@ the HanzoIjection is a tool focused on injecting arbitrary codes in memory to by
 ------------------------------------------
 <h4><strong>Commands list</strong></h4>
 
- OPTION        TYPE       DESCRIPTION
--e,--execute  [.raw]      Name of file.bin, payload metasploit type raw
--p,--payload  [.raw]      Payload meterpreter type [RAW]  requered parameter -o [output]
--o,--output   [file.cs]   Output generate project file.cs injection memory payload c#
--o,--output   [file.cs]   Output generate project file.cs injection memory payload c#
--b,--binder   [NULL]      Binder File  EXE  with encrypt file PE not requered paramenter
--h,--help     [Help]      show this help and exit
+ OPTION        TYPE       DESCRIPTION<br>
+-e,--execute  [.raw]      Name of file.bin, payload metasploit type raw<br>
+-p,--payload  [.raw]      Payload meterpreter type [RAW]  requered parameter -o [output]<br>
+-o,--output   [file.cs]   Output generate project file.cs injection memory payload c#<br>
+-b,--binder   [NULL]      Binder File  EXE  with encrypt file PE not requered paramenter<br>
+-h,--help     [Help]      show this help and exit<br>
 
 ------------------------------------------
 
 <h4><strong>Example Usage:</strong></h4>
 
-HanzoInjection.exe -e payload_meterpreter.bin
-HanzoInjection.exe -p meterpreter.bin -o injection_memory.cs
-HanzoInjection.exe -b
+HanzoInjection.exe -e payload_meterpreter.bin<br>
+HanzoInjection.exe -p meterpreter.bin -o injection_memory.cs<br>
+HanzoInjection.exe -b<br>
 
 ------------------------------------------
 <h4><strong>Hanzo Binder</strong></h4>
