@@ -2,6 +2,7 @@
 the HanzoIjection is a tool focused on injecting arbitrary codes in memory to bypass common antivirus solutions
 <img src="https://dl.dropboxusercontent.com/u/97321327/HanzoInjetion/Screenshot_1.png"> 
 
+Video Demo: 
 <h3>Documentation</h3>
 
 ------------------------------------------
@@ -26,7 +27,7 @@ HanzoInjection.exe -b<br>
 <h4><strong>Hanzo Binder</strong></h4>
 <img src="https://dl.dropboxusercontent.com/u/97321327/HanzoInjetion/Screenshot_2.png"> 
 
-Video Demo: 
+
 
 
 The MIT License (MIT)
