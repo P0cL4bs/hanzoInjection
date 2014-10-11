@@ -29,7 +29,8 @@ HanzoInjection.exe -b<br>
 
 
 
-
+<h2>License</h2>
+------------------------------------------
 The MIT License (MIT)
 Version 1.0
 Copyright (c) 2014 Mh4-(msfcd3r) 
