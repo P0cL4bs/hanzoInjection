@@ -2,7 +2,6 @@
  * -----------------------------------------------------------------------------------------------
  * Hanzo Injetion Tool 
  * the HanzoIjection is a tool focused on injecting arbitrary codes in memory to bypass common antivirus solutions
- * developer: Mharcos Nesster (mh4x0f)
  * Geeetx: P0cL4bs Team
  * { N4sss , MMXM , Chrislley, MovCode, joridos }
  * Create in: 11/10/2014
