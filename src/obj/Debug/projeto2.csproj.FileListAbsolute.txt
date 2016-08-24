@@ -1,5 +1,0 @@
-C:\Users\Marcos\Desktop\Lab\projeto2\projeto2\bin\Debug\projeto2.exe.config
-C:\Users\Marcos\Desktop\Lab\projeto2\projeto2\bin\Debug\projeto2.exe
-C:\Users\Marcos\Desktop\Lab\projeto2\projeto2\bin\Debug\projeto2.pdb
-C:\Users\Marcos\Desktop\Lab\projeto2\projeto2\obj\Debug\projeto2.exe
-C:\Users\Marcos\Desktop\Lab\projeto2\projeto2\obj\Debug\projeto2.pdb

@@ -1,6 +1,0 @@
-C:\Users\Marcos\Desktop\Lab\mh4Injetion Tool\Mh4Injection\obj\Debug\Mh4InjetionTool.csprojResolveAssemblyReference.cache
-C:\Users\Marcos\Desktop\Lab\mh4Injetion Tool\Mh4Injection\bin\Debug\HanzoInjectionTool.exe.config
-C:\Users\Marcos\Desktop\Lab\mh4Injetion Tool\Mh4Injection\bin\Debug\HanzoInjectionTool.exe
-C:\Users\Marcos\Desktop\Lab\mh4Injetion Tool\Mh4Injection\bin\Debug\HanzoInjectionTool.pdb
-C:\Users\Marcos\Desktop\Lab\mh4Injetion Tool\Mh4Injection\obj\Debug\HanzoInjectionTool.exe
-C:\Users\Marcos\Desktop\Lab\mh4Injetion Tool\Mh4Injection\obj\Debug\HanzoInjectionTool.pdb
