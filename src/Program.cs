@@ -161,7 +161,7 @@ namespace HanzoInjectionTool
             Console.ResetColor();
             Console.WriteLine("        OPTION        TYPE       DESCRIPTION");
             Console.WriteLine("       -e,--execute  [.raw]      Name of file.bin, payload metasploit type raw");
-            Console.WriteLine("       -p,--payload  [.raw]      Payload meterpreter type [RAW]  requered parameter -o [output]");
+            Console.WriteLine("       -p,--payload  [.raw]      Payload meterpreter type [RAW]  required parameter -o [output]");
             Console.WriteLine("       -o,--output   [file.cs]   Output generate project file.cs injection memory payload c#");
             Console.WriteLine("       -h,--help     [Help]      show this help and exit");
             Console.ForegroundColor = ConsoleColor.DarkCyan;
