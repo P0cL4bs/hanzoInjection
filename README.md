@@ -14,7 +14,7 @@ Arguments Options:
 
         OPTION        TYPE       DESCRIPTION
        -e,--execute  [.raw]      Name of file.bin, payload metasploit type raw
-       -p,--payload  [.raw]      Payload meterpreter type [RAW]  requered parameter -o [output]
+       -p,--payload  [.raw]      Payload meterpreter type [RAW]  required parameter -o [output]
        -o,--output   [file.cs]   Output generate project file.cs injection memory payload c#
        -h,--help     [Help]      show this help and exit
 
